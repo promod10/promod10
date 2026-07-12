@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=I'm+Pramod+Chaudhary;Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=I'm+Pramod+Chaudhary;Backend+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,docker,redis,py,django&perline=5" alt="Pramod's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,docker,redis,py,django" alt="Pramod's Tech Stack" />
   </a>
 </p>
 
@@ -30,7 +30,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=promod10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=promod10&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
