@@ -28,9 +28,7 @@
 
 ## 📊 GITHUB ANALYTICS
 
-<div align="center">
   ![snake gif](https://github.com/promod10/promod10/blob/output/github-snake-dark.svg)
-</div>
 
 
 
